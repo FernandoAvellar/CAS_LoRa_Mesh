@@ -9,8 +9,8 @@ HT_st7735 st7735;
 #define VGNSS_CTRL 3
 
 #define RF_FREQUENCY                                915000000 // Hz
-#define TX_OUTPUT_POWER                             5        // dBm
-#define LORA_BANDWIDTH                              0         // [0: 125 kHz,
+#define TX_OUTPUT_POWER                             2        // dBm
+#define LORA_BANDWIDTH                              2         // [0: 125 kHz,
                                                               //  1: 250 kHz,
                                                               //  2: 500 kHz,
                                                               //  3: Reserved]
